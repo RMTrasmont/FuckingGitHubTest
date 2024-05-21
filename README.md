@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 # GithubTest1
 
+=======
+>>>>>>> 8a26bc9 (Second Commit)
 
 <!-- NAME AND PROJECT NAME -->
 <h1 align="center"> RMTrasmont SF2 </h1> <br>
@@ -61,3 +64,7 @@ A few of the things you can do with GitPoint:
 
 ## - Contributors
 Me, Myself & I.
+<<<<<<< HEAD
+=======
+
+>>>>>>> 8a26bc9 (Second Commit)
