@@ -15,9 +15,9 @@
 ![SF2_4](https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/90957ab1-a31a-4078-9743-5a0ac1ec1e44) 
 ![SF2Gif](https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/38882d36-355b-45dd-8c8c-afc2b6b3ee22) 
 
-<img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/90957ab1-a31a-4078-9743-5a0ac1ec1e44" alt="SF2_4" width="300" height="200">
+<img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/90957ab1-a31a-4078-9743-5a0ac1ec1e44" alt="SF2_4" width="300" height="600">
 
-<img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/38882d36-355b-45dd-8c8c-afc2b6b3ee22" alt="SF2Gif" width="300" height="200">
+<img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/38882d36-355b-45dd-8c8c-afc2b6b3ee22" alt="SF2Gif" width="300" height="600">
 
 </p>
 
