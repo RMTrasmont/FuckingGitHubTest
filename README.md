@@ -1,11 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# GithubTest1
 
-=======
->>>>>>> 8a26bc9 (Second Commit)
-=======
->>>>>>> origin/main
 
 <!-- NAME AND PROJECT NAME -->
 <h1 align="center"> RMTrasmont SF2 </h1> <br>
