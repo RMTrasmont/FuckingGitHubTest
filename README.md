@@ -11,7 +11,7 @@
 
 <!-- SCREENSHOT VIDEO/GIF -->
 ![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
-
+![App Video](/Users/rmt/Desktop/GITHUB TEST/ReadMeMedia/SF2ReadMeMedia/SF2
 
 </p>
 
@@ -60,11 +60,5 @@ A few of the things you can do with GitPoint:
 
 ## - Contributors
 Me, Myself & I.
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 
->>>>>>> 8a26bc9 (Second Commit)
-=======
 
->>>>>>> origin/main
