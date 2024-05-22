@@ -10,8 +10,8 @@ xcuserdata/
 *.xccheckout
 
 ## compatibility with Xcode 3 and earlier (ignoring not required starting Xcode 4)
-build/               <-- Removed during conflict resolution
-DerivedData/         <-- Removed during conflict resolution
+build/
+DerivedData/
 *.moved-aside
 *.pbxuser
 !default.pbxuser
