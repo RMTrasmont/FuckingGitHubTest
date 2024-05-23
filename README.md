@@ -39,7 +39,7 @@ HOW TO USE
 ## - Introduction
 <!-- SHORT APP INTRO -->
 
-Classic Street Fighter II app showing a List of Characters with their Info and Move Sets.
+Classic Street Fighter II app showing a List of Characters with their Info and Move Sets. The Animations are Not Videos nor GIFs. Each individual character has a set of Images that works off a timer giving the impression of movement to the user. Hundreds of images were individually selected, cut, background removed,cleaned up, resized and combined in one background to perform the "aimation". 
 
 <!-- ADD IMAGES FOR INTRO -->
 <p align="center">
@@ -49,17 +49,15 @@ Classic Street Fighter II app showing a List of Characters with their Info and M
 ## - About
 <!-- LIST FEATURES -->
 
-A few of the things you can do with GitPoint:
+App Features
 
-* View user activity feed
-* Communicate on your issue and pull request conversations
-* Close or lock issues
-* Apply labels and assignees
-* Review and merge pull requests
-* Create new issues
-* Star, watch and fork repositories
-* Control your unread and participating notifications
-* Easily search for any user or repository
+* Scroll View
+* Custom Lists
+* Animated Stances 
+* Animated Move Sets for All Characters
+* Animated Background
+* Hundres of individual images 
+* Theme Music for each Character
 
 <!-- ADD IMAGES/GIFS FOR FEATURES -->
 <p align="center">
@@ -68,6 +66,9 @@ A few of the things you can do with GitPoint:
 </p>
 
 <p align="center">
+    
+   [SF2HowTo_2](https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/1bac1bb4-b57f-4f48-9052-17a7a8148db9)
+
   <img src = "http://i.imgur.com/0iorG20.png" width=700>
 </p>
 
