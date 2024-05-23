@@ -62,8 +62,13 @@ A few of the things you can do with GitPoint:
 * Easily search for any user or repository
 
 <!-- ADD IMAGES FOR FEATURES -->
+
+![SF2InfoGif](https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/5115c73a-a1a3-46e8-bfbc-3da78707eec1)
+![SF2MovesGif](https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/c44db048-94f8-4432-8598-4d188ccdc54a)
+
 <p align="center">
-  <img src = "http://i.imgur.com/IkSnFRL.png" width=700>
+  <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/5115c73a-a1a3-46e8-bfbc-3da78707eec1" alt="SF2InfoGif" width="200" height="400">
+    <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/c44db048-94f8-4432-8598-4d188ccdc54a" alt="SF2MovesGif" width="200" height="400">
 </p>
 
 <p align="center">
