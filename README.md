@@ -11,15 +11,19 @@
 
 <!-- SCREENSHOT VIDEO/GIF -->
 
-<!-- 
-SOURCE
+<!--
+HOW TO:
+
+PASTE SOURCE
 ![SF2_4](https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/90957ab1-a31a-4078-9743-5a0ac1ec1e44) 
 ![SF2Gif](https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/38882d36-355b-45dd-8c8c-afc2b6b3ee22) 
+
+HOW TO USE
+<img src="<SOURCE URL INSDE the QUOTES>" alt="SF2_4" width="300" height="600">
 -->
 
-<img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/90957ab1-a31a-4078-9743-5a0ac1ec1e44" alt="SF2_4" width="300" height="600">
+<img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/ccab9b78-c8cb-4856-9b5f-fd27f51ace87" alt="SF2IntroGif" width="300" height="600">
 
-<img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/38882d36-355b-45dd-8c8c-afc2b6b3ee22" alt="SF2Gif" width="300" height="600">
 
 </p>
 
