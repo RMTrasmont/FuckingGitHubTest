@@ -60,21 +60,23 @@ App Features
 * Theme Music for each Character
 
 <!-- ADD IMAGES/GIFS FOR FEATURES -->
+    
+    <!-- IMAGES/GIFS SET 1 -->
 <p align="center">
   <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/5115c73a-a1a3-46e8-bfbc-3da78707eec1" alt="SF2InfoGif" width="250" height="500">
     <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/c44db048-94f8-4432-8598-4d188ccdc54a" alt="SF2MovesGif" width="250" height="500">
 </p>
-![SF2HowTo_2](https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/4d01552a-90a7-4966-a22b-dd30f21dfb85)
 
+<!-- IMAGES/GIFS SET 2 -->
 <p align="center">
   <img src = "https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/4d01552a-90a7-4966-a22b-dd30f21dfb85" >
-     <img src = "http://i.imgur.com/0iorG20.png" width=700>
-     <img src = "http://i.imgur.com/0iorG20.png" width=700>
-     <img src = "http://i.imgur.com/0iorG20.png" width=700>
+     <img src = "https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/20389ec8-ab90-42a7-9415-971d200609da" > 
+     <img src = "https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/1f40c8c1-36b0-4c80-896d-16fbc92863be" >
+     <img src = "https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/89892bcf-7987-4a98-9499-458f3f7569cf" >
 </p>
 
 
 ## - Contributors
-Me, Myself & I.
+Me, Myself & I,...Son!
 
 
