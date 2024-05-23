@@ -21,9 +21,9 @@ HOW TO USE
 -->
 
 <!--TOP INTRO GIF IMAGE -->
-<div style="text-align: center;">
+<p align="center">
 <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/ccab9b78-c8cb-4856-9b5f-fd27f51ace87" alt="SF2IntroGif" width="300" height="600">
-<div style="text-align: center;">
+</p>
 
 
 </p>
