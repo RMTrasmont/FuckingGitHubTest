@@ -3,13 +3,11 @@
 <!-- NAME AND PROJECT NAME -->
 <h1 align="center"> RMTrasmont SF2 </h1> <br>
 
-<!-- SOME BULLSHIT IMAGE -->
+<!-- APP NAME AND IMAGE HERE -->
 <p align="center">
-    <img alt="SF2" title="APP ANME TITLE" src="ADD IMAGE URL HERE" width="450">
+    <img alt="Street Fighter II" title="APP ANME TITLE" src="ADD IMAGE URL HERE" width="450">
   </a>
 </p>
-
-<!-- SCREENSHOT VIDEO/GIF -->
 
 <!--
 HOW TO:
@@ -22,7 +20,10 @@ HOW TO USE
 <img src="<SOURCE URL INSDE the QUOTES>" alt="SF2_4" width="300" height="600">
 -->
 
+<!--TOP INTRO GIF IMAGE -->
+<div style="text-align: center;">
 <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/ccab9b78-c8cb-4856-9b5f-fd27f51ace87" alt="SF2IntroGif" width="300" height="600">
+<div style="text-align: center;">
 
 
 </p>
