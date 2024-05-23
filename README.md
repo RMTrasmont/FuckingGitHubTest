@@ -61,13 +61,13 @@ App Features
 
 <!-- ADD IMAGES/GIFS FOR FEATURES -->
     
-    <!-- IMAGES/GIFS SET 1 -->
+    
 <p align="center">
   <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/5115c73a-a1a3-46e8-bfbc-3da78707eec1" alt="SF2InfoGif" width="250" height="500">
     <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/c44db048-94f8-4432-8598-4d188ccdc54a" alt="SF2MovesGif" width="250" height="500">
 </p>
 
-<!-- IMAGES/GIFS SET 2 -->
+
 <p align="center">
   <img src = "https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/4d01552a-90a7-4966-a22b-dd30f21dfb85" >
      <img src = "https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/20389ec8-ab90-42a7-9415-971d200609da" > 
