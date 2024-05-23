@@ -5,7 +5,7 @@
 
 <!-- SOME BULLSHIT IMAGE -->
 <p align="center">
-    <img alt="APP NAME" title="APP ANME TITLE" src="ADD IMAGE URL HERE" width="450">
+    <img alt="SF2" title="APP ANME TITLE" src="ADD IMAGE URL HERE" width="450">
   </a>
 </p>
 
