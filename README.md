@@ -22,7 +22,7 @@ HOW TO USE
 
 <!--TOP INTRO GIF IMAGE -->
 <p align="center">
-<img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/ccab9b78-c8cb-4856-9b5f-fd27f51ace87" alt="SF2IntroGif" width="250" height="500">
+<img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/ccab9b78-c8cb-4856-9b5f-fd27f51ace87" alt="SF2IntroGif" width="300" height="600">
 </p>
 
 
@@ -31,7 +31,7 @@ HOW TO USE
 ## - Table of Contents
 
 - [Introduction](#introduction)
-- [Features](#features)
+- [About](#about)
 - [Contributors](#contributors)
 
 
@@ -46,7 +46,7 @@ Classic Street Fighter II app showing a List of Characters with their Info and M
 <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/41a12b41-82cb-4bfb-a858-74f5c3371ef7" alt="SF2ListGif" width="250" height="500">
 </p>
 
-## - Features
+## - About
 <!-- LIST FEATURES -->
 
 A few of the things you can do with GitPoint:
@@ -61,10 +61,10 @@ A few of the things you can do with GitPoint:
 * Control your unread and participating notifications
 * Easily search for any user or repository
 
-<!-- ADD IMAGES FOR FEATURES -->
+<!-- ADD IMAGES/GIFS FOR FEATURES -->
 <p align="center">
-  <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/5115c73a-a1a3-46e8-bfbc-3da78707eec1" alt="SF2InfoGif" width="200" height="400">
-    <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/c44db048-94f8-4432-8598-4d188ccdc54a" alt="SF2MovesGif" width="200" height="400">
+  <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/5115c73a-a1a3-46e8-bfbc-3da78707eec1" alt="SF2InfoGif" width="250" height="500">
+    <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/c44db048-94f8-4432-8598-4d188ccdc54a" alt="SF2MovesGif" width="250" height="500">
 </p>
 
 <p align="center">
