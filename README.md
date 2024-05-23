@@ -1,7 +1,7 @@
 
 
-<!-- NAME AND PROJECT NAME -->
-<h1 align="center"> RMTrasmont SF2 </h1> <br>
+<!-- NAME -->
+<h1 align="center"> RMTrasmont </h1> <br>
 
 <!-- APP NAME AND IMAGE HERE -->
 <p align="center">
@@ -22,7 +22,7 @@ HOW TO USE
 
 <!--TOP INTRO GIF IMAGE -->
 <p align="center">
-<img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/ccab9b78-c8cb-4856-9b5f-fd27f51ace87" alt="SF2IntroGif" width="300" height="600">
+<img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/ccab9b78-c8cb-4856-9b5f-fd27f51ace87" alt="SF2IntroGif" width="200" height="400">
 </p>
 
 
@@ -39,11 +39,11 @@ HOW TO USE
 ## - Introduction
 <!-- SHORT APP INTRO -->
 
-View repository and user information, control your notifications and even manage your issues and pull requests. Built with React Native, GitPoint is one of the most feature-rich unofficial GitHub clients that is 100% free.
+Classic Street Fighter II app showing a List of Characters with their Info and Move Sets.
 
 <!-- ADD IMAGES FOR INTRO -->
 <p align="center">
-  <img src = "http://i.imgur.com/HowF6aM.png" width=350>
+<img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/41a12b41-82cb-4bfb-a858-74f5c3371ef7" alt="SF2ListGif" width="200" height="400">
 </p>
 
 ## - Features
