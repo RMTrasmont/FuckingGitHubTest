@@ -39,12 +39,14 @@ HOW TO USE
 <!-- SHORT APP INTRO -->
 Rick Ross themed Core data App. Using Core Data to persist tasks. 
 
-<!-- ADD IMAGES FOR INTRO -->
-![RossAddDataGif](https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/10761d9e-ae5b-410e-88c1-7acc99a4a5c4)
+<!-- ADD IMAGES/GIF FOR INTRO -->
+![RossGifPart1](https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/eff72844-2e7a-44b8-9109-9000dae88d62)
+![RossGifPart2](https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/e4ce8c49-80cc-41c4-a21b-d04a739ab08a)
 
 
 <p align="center">
-<img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/10761d9e-ae5b-410e-88c1-7acc99a4a5c4" alt="RossAddDataGif" width="250" height="500">
+<img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/eff72844-2e7a-44b8-9109-9000dae88d62" alt="RossGifPart1" width="250" height="500">
+<img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/e4ce8c49-80cc-41c4-a21b-d04a739ab08a" alt="RossGifPart2" width="250" height="500">
 </p>
 
 ## - About
@@ -61,11 +63,6 @@ App Features
 * Core Data
 
 <!-- ADD IMAGES/GIFS FOR FEATURES -->
-![Ross_1](https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/cc7cf7c5-95b7-49a1-a4b5-2b31ed23c763)
-![Ross_2](https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/e5535a20-95ef-411d-b38c-bbfada2504d5)
-![Ross_3](https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/8ae7eb9d-9bdf-49b1-aca4-1db408b1a48c)
-![Ross_4](https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/8c338440-fd3c-4eac-8b10-9e33f30c0e14)
-
     
 <p align="center">
   <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/cc7cf7c5-95b7-49a1-a4b5-2b31ed23c763" alt="Ross_1" width="200" height="400">
@@ -74,11 +71,6 @@ App Features
      <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/8c338440-fd3c-4eac-8b10-9e33f30c0e14" alt="Ross_4" width="200" height="400">
     
 </p>
-![Ross_5](https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/f70ee310-da45-4a85-b8f7-17fadeece46e)
-![Ross_6](https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/7ce4e371-70d6-4320-93dd-123f17f08d04)
-![Ross_7](https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/c9183a92-651b-4a38-9b20-8981df855edd)
-![Ross_8](https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/a190af78-adc6-40dc-b8b1-7f233e2a724a)
-
 
 
 <p align="center">
@@ -87,10 +79,6 @@ App Features
     <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/c9183a92-651b-4a38-9b20-8981df855edd" alt="Ross_7" width="200" height="400">
      <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/a190af78-adc6-40dc-b8b1-7f233e2a724a" alt="Ross_8" width="200" height="400">
 </p>
-
-![Ross_9](https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/cda4061e-f55b-4198-b08e-f03f4527c750)
-![Ross_10](https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/654bc6e6-7dc8-4aef-aa7c-1a844d573f48)
-![Ross_11](https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/7efcfe7e-0d5b-4d41-a9d4-472df9e1cf01)
 
 
 <p align="center">
