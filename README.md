@@ -46,6 +46,12 @@ Classic Street Fighter II app showing a List of Characters with their Info and M
 <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/41a12b41-82cb-4bfb-a858-74f5c3371ef7" alt="SF2ListGif" width="250" height="500">
 </p>
 
+<p align="center">
+<img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/9c48a386-faeb-45ff-9ec3-897a59ce1cf9" >
+</p>
+
+
+
 ## - About
 <!-- LIST FEATURES -->
 
@@ -64,6 +70,8 @@ App Features
     
 <p align="center">
   <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/5115c73a-a1a3-46e8-bfbc-3da78707eec1" alt="SF2InfoGif" width="250" height="500">
+    <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/c44db048-94f8-4432-8598-4d188ccdc54a" alt="SF2MovesGif" width="250" height="500">
+     <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/5115c73a-a1a3-46e8-bfbc-3da78707eec1" alt="SF2InfoGif" width="250" height="500">
     <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/c44db048-94f8-4432-8598-4d188ccdc54a" alt="SF2MovesGif" width="250" height="500">
 </p>
 
