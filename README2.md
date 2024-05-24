@@ -40,9 +40,6 @@ HOW TO USE
 Rick Ross themed Core data App. Using Core Data to persist tasks. 
 
 <!-- ADD IMAGES/GIF FOR INTRO -->
-![RossGifPart1](https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/eff72844-2e7a-44b8-9109-9000dae88d62)
-![RossGifPart2](https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/e4ce8c49-80cc-41c4-a21b-d04a739ab08a)
-
 
 <p align="center">
 <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/eff72844-2e7a-44b8-9109-9000dae88d62" alt="RossGifPart1" width="250" height="500">
