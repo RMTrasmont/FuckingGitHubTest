@@ -5,7 +5,7 @@
 
 <!-- APP NAME AND IMAGE HERE -->
 <p align="center">
-    <img alt="Street Fighter II" title="APP ANME TITLE" src="ADD IMAGE URL HERE" width="450">
+    <img alt="Street Fighter II" title="APP ANME TITLE" src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/3eff45f5-1861-403f-b8a6-f8eaa6e698e6" width="450">
   </a>
 </p>
 
@@ -75,10 +75,6 @@ App Features
      <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/865116ac-b0e8-45c9-8f29-ae9b777531ca" alt="SF2MoreInfo" width="200" height="400">
     
 </p>
-![SF2HowTo_2](https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/52108527-d30a-49f2-89e3-beb53863aed6)
-![SF2HowTo_3](https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/7720b78f-8106-432c-ae0b-8485504e7822)
-![SF2HowTo_4](https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/d9419895-0c03-449b-bc4f-e3d46a820322)
-![SF2HowTo_5](https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/449b1dd7-f729-43de-8e84-0e83e84fa064)
 
 
 <p align="center">
