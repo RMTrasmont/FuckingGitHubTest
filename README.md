@@ -67,23 +67,25 @@ App Features
 
 <!-- ADD IMAGES/GIFS FOR FEATURES -->
 
-![SF2MoreMoves](https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/865116ac-b0e8-45c9-8f29-ae9b777531ca)
-![SF2MoreInfo](https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/67d26f17-88d4-41f4-b6c8-2fc49c3846b4)
-
     
 <p align="center">
   <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/5115c73a-a1a3-46e8-bfbc-3da78707eec1" alt="SF2InfoGif" width="200" height="400">
     <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/c44db048-94f8-4432-8598-4d188ccdc54a" alt="SF2MovesGif" width="200" height="400">
-     <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/865116ac-b0e8-45c9-8f29-ae9b777531ca" alt="SF2MoreInfo" width="200" height="400">
     <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/67d26f17-88d4-41f4-b6c8-2fc49c3846b4" alt="SF2MoreMoves" width="200" height="400">
+     <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/865116ac-b0e8-45c9-8f29-ae9b777531ca" alt="SF2MoreInfo" width="200" height="400">
+    
 </p>
+![SF2HowTo_2](https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/52108527-d30a-49f2-89e3-beb53863aed6)
+![SF2HowTo_3](https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/7720b78f-8106-432c-ae0b-8485504e7822)
+![SF2HowTo_4](https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/d9419895-0c03-449b-bc4f-e3d46a820322)
+![SF2HowTo_5](https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/449b1dd7-f729-43de-8e84-0e83e84fa064)
 
 
 <p align="center">
-  <img src = "https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/4d01552a-90a7-4966-a22b-dd30f21dfb85" >
-     <img src = "https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/20389ec8-ab90-42a7-9415-971d200609da" > 
-     <img src = "https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/1f40c8c1-36b0-4c80-896d-16fbc92863be" >
-     <img src = "https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/89892bcf-7987-4a98-9499-458f3f7569cf" >
+  <img src = "https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/52108527-d30a-49f2-89e3-beb53863aed6" >
+     <img src = "https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/7720b78f-8106-432c-ae0b-8485504e7822" > 
+     <img src = "https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/d9419895-0c03-449b-bc4f-e3d46a820322" >
+     <img src = "https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/449b1dd7-f729-43de-8e84-0e83e84fa064" >
 </p>
 
 
