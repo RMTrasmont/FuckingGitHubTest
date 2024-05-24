@@ -2,10 +2,11 @@
 
 <!-- NAME -->
 <h1 align="center"> RMTrasmont </h1> <br>
+![RYUTopImage](https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/91281791-08fe-4f3b-9603-a75991952411)
 
 <!-- APP NAME AND IMAGE HERE -->
 <p align="center">
-    <img alt="Street Fighter II" title="APP ANME TITLE" src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/3eff45f5-1861-403f-b8a6-f8eaa6e698e6" width="450">
+    <img alt="Street Fighter II" title="APP ANME TITLE" src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/91281791-08fe-4f3b-9603-a75991952411" width="600">
   </a>
 </p>
 
