@@ -3,15 +3,9 @@
 <!-- NAME -->
 <h1 align="center"> RMTrasmont </h1> <br>
 
-<div style="position: relative; width: 600px; height: 600px;">
-  <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/91281791-08fe-4f3b-9603-a75991952411" alt="RYUTopImage" style="width: 600%; height: 600%;">
-  <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/ccab9b78-c8cb-4856-9b5f-fd27f51ace87" alt="SF2IntroGif" style=""position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 300px; height: 600px;">
-</div>
-
-
 <!-- APP NAME AND IMAGE HERE -->
 <p align="center">
-    <img alt="Street Fighter II" title="APP ANME TITLE" src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/91281791-08fe-4f3b-9603-a75991952411" width="600">
+    <img alt="Street Fighter II" title="APP ANME TITLE" src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/91281791-08fe-4f3b-9603-a75991952411" width="300">
   </a>
 </p>
 
