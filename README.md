@@ -66,13 +66,16 @@ App Features
 * Theme Music for each Character
 
 <!-- ADD IMAGES/GIFS FOR FEATURES -->
-    
+
+![SF2MoreMoves](https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/865116ac-b0e8-45c9-8f29-ae9b777531ca)
+![SF2MoreInfo](https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/67d26f17-88d4-41f4-b6c8-2fc49c3846b4)
+
     
 <p align="center">
-  <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/5115c73a-a1a3-46e8-bfbc-3da78707eec1" alt="SF2InfoGif" width="250" height="500">
-    <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/c44db048-94f8-4432-8598-4d188ccdc54a" alt="SF2MovesGif" width="250" height="500">
-     <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/5115c73a-a1a3-46e8-bfbc-3da78707eec1" alt="SF2InfoGif" width="250" height="500">
-    <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/c44db048-94f8-4432-8598-4d188ccdc54a" alt="SF2MovesGif" width="250" height="500">
+  <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/5115c73a-a1a3-46e8-bfbc-3da78707eec1" alt="SF2InfoGif" width="200" height="400">
+    <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/c44db048-94f8-4432-8598-4d188ccdc54a" alt="SF2MovesGif" width="200" height="400">
+     <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/865116ac-b0e8-45c9-8f29-ae9b777531ca" alt="SF2MoreInfo" width="200" height="400">
+    <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/67d26f17-88d4-41f4-b6c8-2fc49c3846b4" alt="SF2MoreMoves" width="200" height="400">
 </p>
 
 
