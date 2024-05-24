@@ -2,7 +2,7 @@
 
 <!-- NAME -->
 <h1 align="center"> RMTrasmont </h1> <br>
-![RYUTopImage](https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/91281791-08fe-4f3b-9603-a75991952411)
+
 
 <!-- APP NAME AND IMAGE HERE -->
 <p align="center">
