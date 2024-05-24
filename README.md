@@ -3,6 +3,12 @@
 <!-- NAME -->
 <h1 align="center"> RMTrasmont </h1> <br>
 
+<div style="position: relative; width: 300px; height: 600px;">
+  <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/ccab9b78-c8cb-4856-9b5f-fd27f51ace87" alt="SF2IntroGif" style="width: 100%; height: 100%;">
+  <img src="https://github.com/RMTrasmont/FuckingGitHubTest/assets/25352404/90957ab1-a31a-4078-9743-5a0ac1ec1e44" alt="SF2_4" style="position: absolute; top: 0; left: 0; width: 100px; height: 100px;">
+</div>
+
+
 
 <!-- APP NAME AND IMAGE HERE -->
 <p align="center">
